@@ -1,7 +1,10 @@
-### Hi there 👋
+[![trophy](https://github-profile-trophy.vercel.app/?username=k-tamura)](https://github.com/k-tamura/github-profile-trophy)
+![movie](https://raw.githubusercontent.com/k-tamura/cocha-icons-9to5er-edition/master/sample2.png)
 
 <!--
 **k-tamura/k-tamura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### Hi there 👋
 
 Here are some ideas to get you started:
 
